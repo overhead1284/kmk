@@ -1,2 +1,2 @@
 Cold and dry, but everythint is my favorite color
-we added a different line in the temporary copy
+We removed the conflict on this line
